@@ -1,8 +1,10 @@
 /* Replace these example values with your real public YouTube URLs before publishing. */
 const channelLinks = {
   channel: "https://www.youtube.com/@amvivaan",
-    episode1: "https://www.youtube.com/watch?v=ZiqvZkrYohc&t=4s",
-    episode2: "https://www.youtube.com/watch?v=5GSo3nNdGeo&t=269s",
+    episode1: "https://www.youtube.com/watch?v=ZiqvZkrYohc&t=4s",    
+  playlist: "https://www.youtube.com/playlist?list=PLemVn3pza2QY",
+  channel: "https://www.youtube.com/@amvivaan",
+    episode2: "https://www.youtube.com/watch?v=5GSo3nNdGeo&t=1530s",    
   playlist: "https://www.youtube.com/playlist?list=PLemVn3pza2QY"
 };
 
